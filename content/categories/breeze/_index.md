@@ -1,6 +1,6 @@
 ---
 title: "Breeze"
-description: "技术"
+description: "写写代码，记记笔记"
 slug: "breeze"
 image: "keyboard.jpg"
 style:
