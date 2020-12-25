@@ -1,5 +1,6 @@
 baseurl: https://imzhizi.github.io
-defaultContentLanguage: en
+languageCode: en-us
+DefaultContentLanguage: en
 theme: stack
 paginate: 8
 title: 难以想象的晴朗
