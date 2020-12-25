@@ -1,0 +1,128 @@
+baseurl: https://imzhizi.github.io
+defaultContentLanguage: en
+theme: stack
+paginate: 8
+title: 难以想象的晴朗
+
+# Change it to your Disqus shortname before using
+disqusShortname: imzhizi
+
+permalinks:
+    post: /:year/:month/:slug/
+    page: /:slug/
+
+params:
+    mainSections:
+        - post
+    featuredImageField: image
+
+    rssFullContent: true
+
+    favicon: /static/favicon.ico
+
+    footer:
+        since: 2018
+        customText: 
+
+    dateFormat:
+        published: 2006/01/02
+        lastUpdated: 2006/01/02 15:04
+
+    sidebar:
+        emoji: 🤯
+        subtitle: 大家好，这里是质子
+        avatar:
+            local: true
+            src: /img/avatar.png
+
+    article:
+        math: false
+        license:
+            enabled: true
+            default: Licensed under CC BY-NC-SA 4.0
+
+    comments:
+        enabled: true
+        provider: disqus
+        # utterances:
+        #     repo:
+        #     issueTerm: pathname
+        #     label:
+        #     theme: preferred-color-scheme
+
+    widgets:
+        enabled:
+            - search
+            - archives
+            - tag-cloud
+
+        archives:
+            limit: 5
+            path: archives
+
+        tagCloud:
+            limit: 10
+
+    opengraph:
+        twitter:
+            site: imzhizi
+            card: summary
+
+    defaultImage:
+        opengraph:
+            enabled: true
+            local: true
+            src: /img/avatar.png
+
+    colorScheme:
+        toggle: false
+        default: auto
+
+    imageProcessing:
+        cover:
+            enabled: true
+        content:
+            enabled: true
+
+menu:
+    main:
+        - identifier: home
+          name: Home
+          url: /
+          weight: -100
+          pre: home
+
+        - identifier: about
+          name: About
+          url: about
+          weight: -90
+          pre: user
+
+        - identifier: feed
+          name: Feed
+          url: index.xml
+          weight: -80
+          pre: rss
+
+        - identifier: archives
+          name: Archives
+          url: archives
+          weight: -60
+          pre: archives
+
+
+
+related:
+    includeNewer: true
+    threshold: 60
+    toLower: false
+    indices:
+        - name: tags
+          weight: 100
+
+        - name: categories
+          weight: 200
+
+markup:
+    highlight:
+        noClasses: false
