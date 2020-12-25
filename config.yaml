@@ -1,4 +1,4 @@
-baseurl: https://imzhizi.github.io
+baseurl: https://imzhizi.com
 languageCode: en-us
 DefaultContentLanguage: en
 theme: stack
@@ -77,7 +77,7 @@ params:
 
     colorScheme:
         toggle: false
-        default: auto
+        default: dark
 
     imageProcessing:
         cover:
@@ -119,10 +119,10 @@ related:
     toLower: false
     indices:
         - name: tags
-          weight: 100
+          weight: 200
 
         - name: categories
-          weight: 200
+          weight: 100
 
 markup:
     highlight:
