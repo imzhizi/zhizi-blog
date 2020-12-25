@@ -1,10 +1,11 @@
 ---
 title: "从 Notion 说开去"
-date: 2020-12-25T19:28:36+08:00
+date: 2020-05-15T19:28:36+08:00
 author: "质子"
 description: "关于 Notion 的一点想法"
 tags:
-- App
+- 应用
+- 生产力
 categories: 
 - mist
 image: 

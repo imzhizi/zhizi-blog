@@ -1,26 +1,24 @@
-+++
-title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-author = "Hugo Authors"
-license = "CC BY-NC-ND"
-lastmod = "2020-10-09"
-+++
+---
+title: "About"
+date: 2018-05-05T20:20:19+08:00
+author: "质子"
+description: ""
+license: "CC BY-NC-ND"
+lastmod: "2019-10-09"
+---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+`大家好，这里是质子`
 
-Hugo makes use of a variety of open source projects including:
+`硏究生在读 | 北京 | 程序员初级`
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+🚀 对科技、文化、生活有着广泛的兴趣和热情
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+🔨 生产力应用爱好者
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+🎬 电影爱好者
 
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+🏄 ~~一个适合做朋友的人~~
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+👨‍💻‍ Java/SQL/Python, Spring Boot/Redis/MQ/Linux, 我的技术博客位于[博客园](https://www.cnblogs.com/imzhizi/)
+
+✍️ 你可以从[语雀](https://www.yuque.com/breezebless/me)看到我的文字, 还可以在[豆瓣](https://www.douban.com/people/imzhizi/)找到我
