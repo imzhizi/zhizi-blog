@@ -11,7 +11,6 @@ categories:
 image: 
 ---
 
-
 ## Notion 是什么
 如果你知道 Notion 是什么可以跳过这部分。如果你不知道 Notion 是什么? 一句话来说，Notion 是一个功能丰富、形式美观的笔记应用，是科技、数码圈中非常网红的一款产品，如果还没有概念的话，可以把它想像成功能更强大、样式更好看的「印象笔记」。
 
@@ -31,7 +30,7 @@ image:
 ## 为什么聊 Notion
 最为直接的原因是我收到了 Notion 的 newsletter，简单来说，就是这个应用它针对个人用户免费了!!!
 
-![email-from-notion.png](/../images/email-from-notion.png)
+![email-from-notion.png](/images/email-from-notion.png)
 
 在此之前，免费计划下的用户只能创建 1000 个 block，如果想创建更多 block 就需要使用付费计划(还挺贵的)，而现在免费计划可以创建无限个 block。
 
@@ -85,7 +84,7 @@ Notion 的创始人原本的职业就是设计师，这使得 Notion 在诞生�
 ### Notion 的哲学
 不知道大家是否了解「meta-xx」的概念，经常会被翻译成「元-xx」，比如说「元数据(metadata)」，这个概念可以简单地概括为为描述数据的数据，对于一张照片来说，它的元数据就描述了照片拍摄的一些信息，这些信息并不属于照片本身，但它们是整个照片文件的一部分。
 
-![photo-metadata.png](/../images/photo-metadata.png)
+![photo-metadata.png](/images/photo-metadata.png)
 
 再比如说「元编程(meta-programming)」，这个概念就更复杂一些，如果常规编程的目标是写出能够**完成某项任务**的代码，那么元编程的目标就是写出这样一些代码，这些代码的运行结果是**能够完成计算任务的代码**，是不是有点套娃的感觉，不过可想而知，元编程的代码很可能是维度更高的、代码量更小的。
 

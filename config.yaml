@@ -105,6 +105,12 @@ menu:
           weight: -80
           pre: rss
 
+        - identifier: twitter
+          name: Twitter
+          url: "http://twitter.com/imzhizi"
+          weight: -70
+          pre: twitter
+
         - identifier: archives
           name: Archives
           url: archives
